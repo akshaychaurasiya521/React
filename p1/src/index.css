@@ -1,0 +1,48 @@
+.container
+
+{
+    background-image:url("bg.jpg");
+    background-size: cover;
+    height: 100vh;
+    
+}
+h1
+{
+    background-color: red;
+    text-align: center;
+    color:white;
+    font-size: 40px;
+}
+textarea
+{
+    opacity: 0.4;
+    border: 10px solid red;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: brown;
+    margin-left: 20vh;
+    margin-right: 50vh;
+}
+button
+{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    margin-left: 200px;
+    margin-top: 30px;
+    width: 100px;
+    height: 40px;
+}
+#a1
+{
+    background-color: red;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    margin-top: 1px;
+}
+p{
+    color: white;
+    font-size: 11px ;
+}
